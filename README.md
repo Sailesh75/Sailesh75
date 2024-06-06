@@ -1,6 +1,6 @@
 # Hi there, I'm Sailesh Kafle 👋
 
-- 📚 Currently learning aggregation pipleines in mongodb.
+- 📚 Currently learning aggregation pipleines in MongoDB.
 - 📫 How to reach me: saileshkafle47@gmail.com
 
 ---
