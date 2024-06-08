@@ -1,12 +1,8 @@
 # Hi there, I'm Sailesh Kafle 👋
 
-- 📚 Currently learning aggregation pipelines in MongoDB.
+- 💻 Computer engineer and Full-Stack Developer, passionate about building dynamic web applications and exploring new technologies.
+- 📚 Currently learning [aggregation pipelines](https://docs.mongodb.com/manual/core/aggregation-pipeline/) in MongoDB.
 - 📫 How to reach me: saileshkafle47@gmail.com
-
----
-
-### 💻 About Me
-I'm a computer engineer and Full-Stack Developer, passionate about building dynamic web applications and exploring new technologies.
 
 ---
 
@@ -27,6 +23,15 @@ I'm a computer engineer and Full-Stack Developer, passionate about building dyna
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-Feel free to reach out or connect with me on [GitHub](https://github.com/Sailesh75) and [GitLab](https://gitlab.com/sailesh47)! 🚀
+---
+
+### 📫 Contact
+
+
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/sailesh47)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saileshkafle3)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saileshkafle47@gmail.com)
+
+Feel free to reach out or connect with me! 🚀
 
 ---
