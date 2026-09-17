@@ -18,11 +18,11 @@ Currently open to **AI/ML Engineer** and **Full-Stack Developer** roles.
 
 ### Featured Projects
 
-| Project                                                                                                           | What it does                                                                                                                                                    | Built with                                     |
+| Project                                                                                                           | What it does                                                                                                                                                    | Tech Stack                                     |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | [**chartsight**](https://github.com/Sailesh75/chartsight)                                                         | Reads a clinical note, extracts diagnoses as ICD-10-CM codes with cited evidence spans, redacts PHI, and flags HCC risk-adjustment documentation gaps.          | Python, AWS Bedrock, Claude, Streamlit         |
 | [**MacroLens**](https://github.com/Sailesh75/macro-lens) — [live app](https://frontend-sigma-liart-68.vercel.app) | AI meal-logging app: identifies food from a photo or text description, matches it to real USDA nutrition data, and learns your typical portion sizes over time. | Python, TypeScript, FastAPI, LangGraph, Gemini |
-| [**Commit-Message-Generation**](https://github.com/Sailesh75/Commit-Message-Generation)                           | Replication package for a research paper on automated commit message generation — dataset generation and evaluation pipeline.                                   | Python                                         |
+| [**Commit-Message-Generation**](https://github.com/Sailesh75/Commit-Message-Generation)                           | Replication package for a research paper on automated commit message generation — dataset generation, LLM-based generation/explanation pipeline, and LLM-as-judge evaluation. | Python, OpenAI API (GPT-4o-mini), Llama 3      |
 | [**Realistic Rendering System**](https://github.com/Sailesh75/Realistic-rendering-system)                         | GAN-based image rendering system; [published on ResearchGate](https://www.researchgate.net/publication/356811882_REALISTIC_RENDERING_SYSTEM_USING_GAN).         | Python, PyTorch, Django                        |
 | [**Automatic HTML Code Generator**](https://github.com/Sailesh75/Automatic-HTML-code-generator-)                  | Generates HTML markup from a hand-drawn wireframe image — a CNN identifies tags, an LSTM sequences them.                                                        | Python, Django                                 |
 
@@ -41,6 +41,9 @@ Currently open to **AI/ML Engineer** and **Full-Stack Developer** roles.
 **AI / ML & Cloud**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangGraph%2FLangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/-Llama%203-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
