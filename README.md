@@ -1,6 +1,6 @@
 # Hi, I'm Sailesh Kafle 👋
 
-**AI/ML Engineer** building full-stack, LLM-powered products — from clinical NLP pipelines to deployed consumer apps.
+**AI/ML Engineer** building full-stack, LLM-powered products from clinical NLP pipelines to deployed consumer apps.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saileshkafle/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://saileshkafle.com.np)
