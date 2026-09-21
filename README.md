@@ -10,7 +10,7 @@
 
 ### About
 
-Computer Engineering background, based in Ohio, building applied AI systems end-to-end — from model/pipeline design to the product wrapped around it. Recent work spans clinical NLP, agentic LLM pipelines, and vision-driven products; earlier work includes deep learning research (GANs, CNN+LSTM) and full-stack apps (Django, Express, MongoDB).
+Computer Engineering background, based in Ohio, building applied AI systems end-to-end from model/pipeline design to the product wrapped around it. Recent work spans clinical NLP, agentic LLM pipelines, and vision-driven products; earlier work includes deep learning research (GANs, CNN+LSTM) and full-stack apps (Django, Express, MongoDB).
 
 Currently open to **AI/ML Engineer** and **Full-Stack Developer** roles.
 
@@ -20,7 +20,7 @@ Currently open to **AI/ML Engineer** and **Full-Stack Developer** roles.
 
 | Project                                                                                          | What it does                                                                                                                                                                  | Tech Stack                                     |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [**chartsight**](https://github.com/Sailesh75/chartsight)                                        | Reads a clinical note, extracts diagnoses as ICD-10-CM codes with cited evidence spans, redacts PHI, and flags HCC risk-adjustment documentation gaps.                        | Python, AWS Bedrock, Claude, Streamlit         |
+| [**Chartsight**](https://github.com/Sailesh75/chartsight)                                        | Reads a clinical note, extracts diagnoses as ICD-10-CM codes with cited evidence spans, redacts PHI, and flags HCC risk-adjustment documentation gaps.                        | Python, AWS Bedrock, Claude, Streamlit         |
 | [**MacroLens**](https://github.com/Sailesh75/macro-lens)                                         | AI meal-logging app: identifies food from a photo or text description, matches it to real USDA nutrition data, and learns your typical portion sizes over time.               | Python, TypeScript, FastAPI, LangGraph, Gemini |
 | [**Commit-Message-Generation**](https://github.com/Sailesh75/Commit-Message-Generation)          | Replication package for a research paper on automated commit message generation — dataset generation, LLM-based generation/explanation pipeline, and LLM-as-judge evaluation. | Python, OpenAI API (GPT-4o-mini), Llama 3      |
 | [**Realistic Rendering System**](https://github.com/Sailesh75/Realistic-rendering-system)        | GAN-based image rendering system; [published on ResearchGate](https://www.researchgate.net/publication/356811882_REALISTIC_RENDERING_SYSTEM_USING_GAN).                       | Python, PyTorch, Django                        |
