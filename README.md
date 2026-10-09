@@ -10,7 +10,7 @@
 
 ### About Me
 
-Computer Engineering background, based in Seattle, building applied AI systems end-to-end from model/pipeline design to the product wrapped around it. Recent work spans clinical NLP, agentic LLM pipelines, and vision-driven products; earlier work includes deep learning research (GANs, CNN+LSTM) and full-stack apps (Django, Express, MongoDB).
+Computer Engineering background, based in Seattle, building applied AI systems end-to-end from model/pipeline design to the product wrapped around it. Recent work spans clinical NLP, agentic LLM pipelines, and vision-driven products; earlier work includes deep learning research (GANs, CNN+LSTM) and full-stack apps (React, ExpressJS, MongoDB).
 
 Currently open to **AI/ML Engineer** and **Full-Stack Developer** roles.
 
